@@ -1,8 +1,7 @@
 # Histogram-of-an-images
-```
-Name : Markandeyan Gokul
-Register Number : 212224240086
-```
+## Name : Markandeyan Gokul
+## Register Number : 212224240086
+
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
